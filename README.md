@@ -56,7 +56,7 @@ This project analyzes global carbon emissions data to uncover trends, identify k
 
 <img width="1506" height="780" alt="Screenshot 2026-07-09 063358" src="https://github.com/user-attachments/assets/78166db7-dad3-4383-9031-1c305d48468c" />
 
-<img width="1886" height="726" alt="Screenshot 2026-07-09 063652" src="https://github.com/user-attachments/assets/4566de8e-780d-4ad0-985d-5f8113e96e3d" />
+<img width="1891" height="723" alt="Screenshot 2026-07-10 023137" src="https://github.com/user-attachments/assets/f807efb1-24a2-43c6-8e59-cd7f5c064252" />
 
 ```
 
