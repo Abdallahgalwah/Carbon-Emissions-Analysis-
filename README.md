@@ -71,6 +71,6 @@ This project analyzes global carbon emissions data to uncover trends, identify k
 
 **Abdallah Ghalwash**
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *(https://www.linkedin.com/in/abdallah-ghalwash-a42aa9370/))*
 
-GitHub: *(Add your GitHub profile here)*
+
